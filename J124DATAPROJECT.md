@@ -1,20 +1,20 @@
 <h1> More common and more normal than you think!<h1></h1>
 
-One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is 1.7%, but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to look for incidence of likely DSDs, even if they were not reported as a DSD. A difference of sex development, as mentioned previously, is described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. 
+One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is 1.7%, but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to look for incidence of likely DSDs, even if they were not reported as a DSD. A difference of sex development, as mentioned previously, is described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see intro_to_intersex.md
 
 Please see the following data sets ([Metabolic/endocrine](https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit?usp=sharing), [Genitourinary](https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit?usp=sharing), [Congenital Anomalies](https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit?usp=sharing)) for the raw data and tables made for analysis. 
 
 Some questions answered by this data analysis will be:
 
-What is the total amount of unique respondents across the three data sets?
+*What is the total amount of unique respondents across the three data sets?*
 1. Import CSV file into Google Sheets
 2. Copy Column A of all sheets into a new spreadsheet into Column A of the new sheet
 3. Create pivot table 
 4. Values: Count unique
 
-Return: 2318 unique participants 
+Return: *2318 unique participants* 
 
-How many people had a condition not otherwise listed compared to the number of people who had any diagnosis in each data set? 
+*How many people had a condition not otherwise listed compared to the number of people who had any diagnosis in each data set?* 
 
 1. Sort Data Range (advanced)
 2. First sort by Column D
@@ -39,11 +39,14 @@ Genitourinary disease/anomalies Survey Total: 1133
 6. Do this for all sheets
 
 Other conditions Not Listed: 
+
 Endocrine/metabolic/nutritional/disease survey: 179
+
 Congenital Traits and Anomalies Survey: 143
+
 Genitourinary disease/anomalies Survey: 157
 
-How many people in the survey have a likely DSD? 
+*How many people in the survey have a likely DSD?* 
 
 It doesn’t seem like there is an option listed for DSDs in the second column where participants select from a list of conditions. This means it is likely to be in Other Conditions Not Listed. 
 
@@ -73,9 +76,9 @@ Now, let’s double check that there aren’t any duplications
 11. Select column A
 12. One of the references was duplicated, so the extra was removed
 
-There are a total of 9 references who have a condition that fits clinical definition of DSD
+There are a total of *9* references who have a condition that fits clinical definition of DSD
 
-What is the incidence of reproductive disorders/anomalies compared to general endocrine disorders? 
+*What is the incidence of reproductive disorders/anomalies compared to general endocrine disorders?* 
 
 1. Go to sheet with just the diagnosis and not listed categories
 2. Make a pivot table 
@@ -94,7 +97,7 @@ What is the incidence of reproductive disorders/anomalies compared to general en
 
 Incidence of reproductive disorders in the Endocrine sample is 143
 
-What is the incidence of reproductive disorders in the entire sample size?
+*What is the incidence of reproductive disorders in the entire sample size?*
 
 1. Create a filter for the entire sheet and a new filter view
 2. Filter by diagnosis for reproductive disorders
@@ -108,6 +111,8 @@ What is the incidence of reproductive disorders in the entire sample size?
 10. CountUnique 
 
 Incidence of reproductive disorders in the entire sample size is 620
+
+<h2>That was a lot of data and numbers! Let's contextualize it a little bit with some visualizations</h2>
 
 <div style="min-height:667px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/s9Oyq/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/s9Oyq/full.png" alt="" /></noscript></div> 
 
