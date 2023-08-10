@@ -3,13 +3,15 @@
 
 So now that we know how typical biological sex works, and how sex is determined in most cases, we can visit and define a difference of sex development, which is more colloquially known as an intersex condition. Difference of sex development (DSD) is the medical term for an individual who has a congenital and significant difference in their primary and secondary sex characteristics. This means that the individual has a significant difference in at least one of the five sex determinant characteristics that makes their set different from the typical: chromosomes, gonads, internal reproductive organs, genitalia and endocrine composition. This is a truly broad category, encompassing over 40 known conditions and with others that have yet to be classified or discovered. It is also understandable right now, that you may find this difficult to visualize or fully comprehend — most of us have never heard of DSD before, and it is hard to imagine something believed to be fundamental like anatomical sex being naturally different. And now, you are told there are over 40 different variations — most anyone would be grasping at straws. This is why I have created the categories below to better understand. 
 
-Differences of sex development can be largely sorted into three different categories of their root cause: 
+<h3>Differences of sex development can be largely sorted into three different categories of their root cause: </h3>
 
-Chromosomal 
-Sex determinant gene mutation
-Sex hormone synthesis/receptor differences
+**Chromosomal**
 
-1. Chromosomal DSDs
+**Sex determinant gene mutation**
+
+**Sex hormone synthesis/receptor differences**
+
+<h3>1. Chromosomal DSDs</h3>
 
 Chromosomal DSDs are defined by a difference in sex chromosome composition, meaning that the individual has a sex karyotype other than XX or XY. There can be a number of different compositions, with some more common than others. For example, having only one X chromosome, Turner’s syndrome, occur in 1 out of 2000 births. Similarly, having XXY chromosomes (often correlated with Klinefelter’s syndrome), occurs in 1 out of 1000 individuals. Other combinations can be mosaicism, which means that some cells have one karyotype and some cells have another. Another type is chimerism, which means that a pair of fraternal twins fused in the womb. 
 
@@ -23,7 +25,7 @@ How does this difference in sex chromosomes affect sex development? The answer t
 
 For non mosaic chromosomal anomalies, such as Klinefelter’s and Turner’s syndrome, the extra or missing chromosome can affect the function of the reproductive organs, resulting in ovarian dysgensis in the case of Turner’s syndrome because of lacking genetic stability and testicular dysgenesis (or more specifically, dysgenesis of the seminiferous tubules) in Klinefelter’s syndrome as a result of incomplete X inactivation. 
 
-2. Sex determinant gene mutation 
+<h3>2. Sex determinant gene mutation </h3>
 
 Sex determinant gene DSDs are defined by a mutation to one of the many genes that activate during fetal sex/gonadal differentiation, in someone with a typical XX or XY karyotype. As previously explained in the introduction to reproductive biology, sex is determined by the sperm, which will usually create an XY or XX karyotype. However, from this point onwards, a varied set of genes will govern how sex differentiation progresses. The SRY gene was mentioned as being crucial to the development of testes, and an XY fetus that lacks the SRY gene (XY sex reversal, Swyer’s) will develop female internal anatomy like the uterus, cervix and vagina, with female outer genitalia. Without the SRY gene, the testes wouldn’t form, and thus, the body default forms the female internal organs. However, because the fetus lacked the specific genes for ovarian differentiation due to the otherwise normal XY karyotype, an individual with Swyer’s possesses no ovaries, and will have streak gonads (non functional cell clumps) instead. Similarly, XX sex reversal, or de la Chappelle syndrome, works the exact same way with an XX karyotype that has acquired an SRY gene, which results in male genitalia, and working testes that produce testosterone but are unable to produce sperm. 
 
@@ -32,7 +34,7 @@ Other sex determinant gene mutations include agonadism or aphallia, which result
 Those with sex determinant gene mutations can appear in a variety of ways, but tend to not have any musculoskeletal or autoimmune issues that can be associated with those with chromosomal anomalies. Individuals with Swyer’s, agonadism, de la Chapelle, leydig cell hypoplasia, SF-1 mutation and similar mutations that cause gonads to have difficulty functioning, will require exogenous hormones to ensure pubertal development occurs/is completed and that bone density remains at a healthy level. While gonadectomy (removal of the gonads: ovaries, testes, or ovotestes) is never recommended and should not be done as an elective surgery for minors, the one exception where gonadectomy for the safety of the patient is in cases where one has streak gonads. Streak gonads have a high chance of developing cancers (most commonly, a gonadoblastoma), and they are unable to produce any hormones or gametes (sperm/eggs). 
 
 
-3. Sex hormone synthesis/receptor difference
+<h3>3. Sex hormone synthesis/receptor difference</h3>
 
 Hormone synthesis/receptor differences are a category of DSDs that result from the congenital lack of certain hormones or excess of hormones, that causes differences to genitalia and/or pubertal development. We know now that sex is determined by chromosomes and sex determinant genes, which provides the genetic material and the activation of that material to differentiate between testes and ovaries. However, from this point onwards, the genitalia and internal reproductive organs is determined by the presence or absence of various hormones produced by the gonads. Testosterone produced by the testes will differentiate the internal male reproductive genitalia like the prostate and seminal vesicles, while dihydrotestosterone (DHT), which testosterone converts into via an enzyme, is crucial to developing the outer male genitalia (penis and scrotum). A lack of testosterone/lack of DHT influence will cause male genitalia to be absent, and the fetus will default primitive genital organs to female. The release of the hormone AMH (anti mullerian hormone) determines whether or not a fetus develops a uterus, and this hormone is primarily produced in the testes.
 
@@ -42,9 +44,9 @@ Another common case is congenital adrenal hyperplasia 21 hydorxylase deficiency,
 
 
 
-Do people with DSDs have a sex? 
+<h2>Do people with DSDs have a sex? </h2>
 
-We can also understand the different types of gonads that come up in DSDs:: 
+**We can also understand the different types of gonads that come up in DSDs:**
 
 Testicular
 
