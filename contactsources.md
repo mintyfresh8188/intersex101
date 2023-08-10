@@ -19,3 +19,11 @@ https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkd
 https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit#gid=1429328541
 
 https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit#gid=1491748123 
+
+Link to origin of the data sets: 
+
+https://my.pgp-hms.org/google_surveys 
+
+Link to science literacy dataset: 
+
+
