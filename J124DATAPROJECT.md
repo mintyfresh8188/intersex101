@@ -1,8 +1,12 @@
 <h1>More common and more normal than you think!</h1>
 
+<h3>Introduction and Premise</h3>
+
 A difference of sex developmentis described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see intro_to_intersex.md
 
 One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is 1.7%, but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to Havard Medical School to look for incidence of likely DSDs, even if they were not reported as a DSD. 
+
+<h3>Data Analysis</h3>
 
 Please see the following data sets ([Metabolic/endocrine](https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit?usp=sharing), [Genitourinary](https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit?usp=sharing), [Congenital Anomalies](https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit?usp=sharing)) for the raw data and tables made for analysis. 
 
@@ -116,6 +120,7 @@ Incidence of reproductive disorders in the entire sample size is 620
 
 <h2>That was a lot of data and numbers! Let's contextualize it a little bit with some visualizations</h2>
 
+
 <div style="min-height:667px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/s9Oyq/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/s9Oyq/full.png" alt="" /></noscript></div> 
 
 <div style="min-height:362px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/muvuF/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/muvuF/full.png" alt="" /></noscript></div> 
@@ -124,9 +129,13 @@ Incidence of reproductive disorders in the entire sample size is 620
 
 <h3> It’s just that we are overall, not knowledgeable about reproductive biology or science in general </h3>
 
+
 Let's take a look at how much the average person knows about reproductive biology (sourced from a study on general scientific literacy). 
 
+
 <div style="min-height:400px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/16uGD/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/16uGD/full.png" alt="" /></noscript></div> 
+
+<h3>The Problems Facing Medical Care and Diagnosis of DSDs</h3>
 
 What this data shows us is that first of all, DSDs are more common than people tend to think. Additionally, we can observe that there are various issues with the survey design itself that may make it difficult for people to disclose their conditions — there was no option to disclose a DSD in the prewritten diagnosis options. Even one of the most common DSDs, Congenital Adrenal Hyperplasia, had to be voluntarily written and disclosed. This means that survey respondents may end up not disclosing their diagnosis because of the extra effort it requires. Through survey design alone, we can assume that this number may be lower than the actual rate. 
 
@@ -135,6 +144,8 @@ In addition, rates of misdiagnosis or lack of proper diagnosis for individuals w
 Note that in the dataset, more than half of the respondents experienced some type of endocrine issue, and over a quarter had experienced a reproductive disorder of some kind. The issues that face those with DSDs are not unimaginable for those without DSDs -- to make a simple comparison, Congential Adrenal Hyperplasia resembles PCOS in many ways, including hirsutism and acquiring ovarian cysts, except CAH will often present with some level of genital ambiguity. When more common conditions like PCOS or male secondary hypogonadism are treated with professionalism, DSD care continues to lag behind in terms of medical and ethical competency. The "rarity" and "too different" argument does not hold in the face of both the similarity of DSDs to various "common and milder" reproductive or endocrine conditions, and how common it is to have any kind of reproductive problem. DSDs are also not rare enough to justify the lack of medical incompetency and ignorance about the topic that [those with DSDs frequently experience](https://www.nature.com/articles/s41574-018-0010-8). There is an incredible amount of stigma and shame surrounding DSDs, which is often unwarranted and constructed by [clinical narratives](https://my.pgp-hms.org/google_surveys) that frame those with DSDs as alien, defective, and too difficult to treat. 
 
 I interviewed one of my colleagues and co-facilitators of a research group for intersex/DSD research to get her opinion on the findings. Her name is Klara, and she has XX/XY Chimerism, and has spent many years assisting those with DSDs in understanding their medical documents, pursuing adequate medical care, as well as advocating for the end of intersex infant cosmetic genital modification. 
+
+<h3>Interview</h3>
 
 *Here is what Klara has to say:*
 
