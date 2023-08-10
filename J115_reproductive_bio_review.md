@@ -34,15 +34,15 @@ Tanner 5: Pubic hair reaches its adult stage and takes on a triangular shape in 
 
 In a typical female body, pubertal development is governed by relative absence of testosterone and the slow increase of estrogen and progesterone. It also progresses roughly through 5 stages, and they are listed below. Of course, not everyone experiences the stages in the exact order, or in the same timeline (stalling can be common), and that is largely dependent on genetics and environmental factors. 
 
-Tanner 1
+Tanner 1: No changes
 
-Tanner 2
+Tanner 2: Pubic hair begins to develop, height growth speeds up, and small breast buds begin to form under the nipples
 
-Tanner 3
+Tanner 3: Pubic hair continues to grow and becomes thicker, and the peak of the growth spurt begins. Some genital changes begin to occur. The breasts enlarge beyond breast buds, and now are visible protrusions from the chest. 
 
-Tanner 4
+Tanner 4: Pubic hair darkens and thickens and now covers the pubic bone. Growth begins to slow down, but the hips begin to widen. The areola begins to change and will become bigger, elevating to a small mound on top of the breasts. Near the end of this stage, menstruation begins.
 
-Tanner 5 
+Tanner 5: Pubic hair reaches adult stage and reaches the medial thigh. Growth slows and then stops, and the menstrual cycle stabilizes after one to two years. The areola on the breasts mature and lose the temporary elevation, and the breasts reach adult size and shape. 
 
 An example of the average male body
 
