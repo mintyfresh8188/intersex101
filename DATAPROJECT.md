@@ -2,7 +2,7 @@
 
 One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is 1.7%, but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to look for incidence of likely DSDs, even if they were not reported as a DSD. A difference of sex development, as mentioned previously, is described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. 
 
-Please see the following data sets (Metabolic/endocrine, Genitourinary, Congenital Anomalies) for the raw data and tables made for analysis. 
+Please see the following data sets ([Metabolic/endocrine](https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit?usp=sharing), [Genitourinary](https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit?usp=sharing), [Congenital Anomalies](https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit?usp=sharing)) for the raw data and tables made for analysis. 
 
 Some questions answered by this data analysis will be:
 
@@ -109,4 +109,42 @@ What is the incidence of reproductive disorders in the entire sample size?
 
 Incidence of reproductive disorders in the entire sample size is 620
 
-! (https://datawrapper.dwcdn.net/s9Oyq/1/)
+<div style="min-height:667px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/s9Oyq/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/s9Oyq/full.png" alt="" /></noscript></div> 
+
+<div style="min-height:362px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/muvuF/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/muvuF/full.png" alt="" /></noscript></div> 
+
+<div style="min-height:528px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/dKycs/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/dKycs/full.png" alt="" /></noscript></div> 
+
+<h3> It’s just that we are overall, not knowledgeable about reproductive biology or science in general </h3>
+
+Let's take a look at how much the average person knows about reproductive biology (sourced from a study on general scientific literacy). 
+
+<div style="min-height:400px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/16uGD/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/16uGD/full.png" alt="" /></noscript></div> 
+
+What this data shows us is that first of all, DSDs are more common than people tend to think. Additionally, we can observe that there are various issues with the survey design itself that may make it difficult for people to disclose their conditions — there was no option to disclose a DSD in the prewritten diagnosis options. Even one of the most common DSDs, Congenital Adrenal Hyperplasia, had to be voluntarily written and disclosed. This means that survey respondents may end up not disclosing their diagnosis because of the extra effort it requires. Through survey design alone, we can assume that this number may be lower than the actual rate. 
+
+In addition, rates of misdiagnosis or lack of proper diagnosis for individuals with DSD is high. Only around [13% ever receive genetic sequencing to narrow down the likely cause](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126855/), and there is a [40% chance of misdiagnosis for patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5714504/). Additionally, for those who have gone undiagnosed or lacked a concrete diagnosis, [97% had never done any genetic sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126855/). This is a deeply concerning metric, because it implies that the majority of people with DSDs may be going misdiagnosed or undiagnosed altogether. If we observe the table above, more than half of the individuals could not actually provide a diagnostic name for their condition. We also know that certain DSDs like Turner’s syndrome or Klinefelter’s syndrome occur at 1 out of 2000 and 1 out of 1000 respectively, and one would have expected to see their appearance. However, these DSDs were not seen, and it can be hypothesized that several instances of unexplained male or female infertility could be caused by one of these DSDs, that was never tested or diagnosed. 
+
+Note that in the dataset, more than half of the respondents experienced some type of endocrine issue, and over a quarter had experienced a reproductive disorder of some kind. The issues that face those with DSDs are not unimaginable for those without DSDs -- to make a simple comparison, Congential Adrenal Hyperplasia resembles PCOS in many ways, including hirsutism and acquiring ovarian cysts, except CAH will often present with some level of genital ambiguity. When more common conditions like PCOS or male secondary hypogonadism are treated with professionalism, DSD care continues to lag behind in terms of medical and ethical competency. The "rarity" and "too different" argument does not hold in the face of both the similarity of DSDs to various "common and milder" reproductive or endocrine conditions, and how common it is to have any kind of reproductive problem. DSDs are also not rare enough to justify the lack of medical incompetency and ignorance about the topic that [those with DSDs frequently experience](https://www.nature.com/articles/s41574-018-0010-8). 
+
+I interviewed one of my colleagues and co-facilitators of a research group for intersex/DSD research to get her opinion on the findings. Her name is Klara, and she has XX/XY Chimerism, and has spent many years assisting those with DSDs in understanding their medical documents, pursuing adequate medical care, as well as advocating for the end of intersex infant cosmetic genital modification. 
+
+*Here is what Klara has to say:*
+
+Me: Before I show you what the data says, what do you think the occurrence rate is?
+
+Klara: It’s most likely closer to the higher estimates, but not the highest estimate. There is a lot of stigma about disorders of sex development, whether acquired or congenital. In this specific case, because society itself values belonging to a binary sex category, the stigmatization of intersex conditions will make people wary of being diagnosed of being intersex themselves or having their children be diagnosed with a DSD/intersex condition. This may make them feel like they no longer belong to a clear sex category, and this can make them feel damaged in some way. Alternatively, people may also seek medical justification for concerning symptoms, but reject the label of a DSD. 
+
+Me: The occurrence rate is about 1 out of 200 in this sample, what do you make of that? 
+
+Klara: Considering there is so much shame about DSDs, this only means that 1 out of 200 people have some medical evidence or partial diagnosis of being intersex. There are a lot of people whose diagnoses are hidden from them, or described as something else — given the shame around infertility. It is hard to say about whether this statistic is actually representative of the actual amount of intersex/people with DSDs in the population. 
+
+Also, some people may not want to be diagnosed because there are laws and policies that favour transgender people and discriminate against intersex people. Intersex people may face extra scrutiny if they wish to correct a faulty initial birth assignment, even if the corrected assignment is closer to their actual anatomy. Due to these legal trappings, some intersex people prefer to let the legal system think that they are trans up until they get the gender marker changed, and may pursue diagnosis later. They may not feel comfortable disclosing even to an anonymous survey. 
+
+Me: The survey itself may also be ill designed for DSD respondents. The listed options do not include an option for DSDs — if you were taking this survey, would that influence whether or not you disclose?
+
+Klara: Yes, because it will make me wonder if that condition is even relevant to include, and I may also just not feel like I have the energy to fill that in by hand in a presumably long survey. It makes me feel like an afterthought. I very much believe that given the lack of knowledge about reproductive biology, people do not and will not know anything about DSDs, and this absolutely hinders their access to diagnosis and medical care. 
+
+<h2>So what can we conclude from this analysis of a random population sample?</h2>
+
+We can conclude that even with subpar medical care and lack of awareness, DSDs are more common than researchers and popular media like to claim. When misdiagnosis as well as malpractice is common enough to become an expected pattern in the treatment and care for those with DSDs, this indicates a serious issue. Intersex youth and adults are frequently given unnecessary gonadectomies (sterilization), genital modifying surgeries, and many are pushed into this without even an accurate diagnosis. It had previously been argued that the lack of competency was due to the rarity of DSDs, but this population analysis as well as many other sources are showing that DSDs are nowhere rare enough for this to be a good reason. 
