@@ -13,3 +13,9 @@ Sapphire: @sapphiresentinel on Discord
 They run a research group on intersex/DSD research with me, and our group has collaborated with several academic institutions co authoring studies. We also collaborate with InterACT in terms of sharing our research to those in need. 
 
 Link to google sheets: 
+
+https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit#gid=229714923 
+
+https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit#gid=1429328541
+
+https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit#gid=1491748123 
