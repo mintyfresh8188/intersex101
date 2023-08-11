@@ -118,7 +118,7 @@ CAH and female OTDSD (ovotesticular DSD with ovarian majority) can result in som
 
 <h2>Myths and Misconceptions </h2>
 
-Are DSDs like being a hermaphrodite?
+**Are DSDs like being a hermaphrodite?**
 
 Contrary to popular belief, as well as older medical misconceptions, people who have DSDs are not hermaphroditic. A true human hermaphrodite, as in someone who can produce both viable eggs and sperm, and is capable of both pregnancy and insemination, has not existed at least according to our current knowledge. Snails are hermaphroditic, for example, but humans are not. 
 
@@ -126,13 +126,13 @@ Intersex people have historically been seen as either monsters or gods, and this
 
 ![](https://github.com/mintyfresh8188/intersex101/blob/main/My%20document%20(3).jpg)
 
-Are DSDs disorders or diseases then?
+**Are DSDs disorders or diseases then?**
 
 We used to think that those with DSDs were another category separate from male and female, but we now know that sex characteristics exist on a bimodal spectrum, and for most people with DSDs, they function as either phenotypical/gonadal males or females. This means that the vast majority of people with DSDs are either mostly male with some atypical or female traits, or mostly female with some atypical or male traits. Their differences simply mean that they have traits from somewhere else on the spectrum, and it does not make them diseased or needing to be separated out as a different category. Intersex bodies are simply a natural variation of the existing two sexes. 
 
 ![](https://github.com/mintyfresh8188/intersex101/blob/main/IMG_0079.jpg)
 
-Are intersex people/people with DSDs transgender? 
+**Are intersex people/people with DSDs transgender?** 
 
 There is a popular misconception that those with DSDs are transgender because there is a significant minority who end up living as a different gender in adulthood than childhood. However, the majority of those with DSDs do not have genital/gonadal mismatches, and they stay the gender they were raised. For the minority [(around 10-20%)](https://pubmed.ncbi.nlm.nih.gov/33246831/) who do change their lived gender, it is usually because they were assigned to a gender that does not correspond to their gonads, and they undergo a puberty in adolescence that doesn’t match their genitalia, and thus change their lived gender. These individuals are also not classed as transgender, because their gender identity is aligned with their body’s sex. 
 
