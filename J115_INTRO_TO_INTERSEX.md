@@ -3,6 +3,8 @@
 <body style="background-color:black;">
    <h1>What is Intersex (Difference of Sex Development)?</h1>
 
+   [Preface](https://github.com/mintyfresh8188/intersex101/blob/main/J115_PREFACE.md)
+
    Before you read this introduction to DSDs/Intersex, there is a refresher for those who feel they may be shaky on reproductive biology knowledge. [Here](https://github.com/mintyfresh8188/intersex101/blob/main/J115_reproductive_bio_review.md) is a quick review of how sex is defined and differentiated. 
   
 So now that we know how typical biological sex works, and how sex is determined in most cases, we can visit and define a difference of sex development, which is more colloquially known as an intersex condition. Difference of sex development (DSD) is the medical term for an individual who has a congenital and significant difference in their primary and secondary sex characteristics. This means that the individual has a significant difference in at least one of the five sex determinant characteristics that makes their set different from the typical: chromosomes, gonads, internal reproductive organs, genitalia and endocrine composition. This is a truly broad category, encompassing over 40 known conditions and with others that have yet to be classified or discovered. It is also understandable right now, that you may find this difficult to visualize or fully comprehend — most of us have never heard of DSD before, and it is hard to imagine something believed to be fundamental like anatomical sex being naturally different. And now, you are told there are over 40 different variations — most anyone would be grasping at straws. This is why I have created the categories below to better understand. 
