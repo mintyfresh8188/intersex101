@@ -48,10 +48,6 @@ Tanner 4: Pubic hair darkens and thickens and now covers the pubic bone. Growth 
 
 Tanner 5: Pubic hair reaches adult stage and reaches the medial thigh. Growth slows and then stops, and the menstrual cycle stabilizes after one to two years. The areola on the breasts mature and lose the temporary elevation, and the breasts reach adult size and shape. 
 
-An example of the average male body
-
-An example of the average female body
-
 So how is sex differentiated? What happens in the womb that causes one to be male or female? Sex differentiation starts before the egg is fertilized — typically, the sex of the fetus is determined by the sperm. The egg and the sperm each carry half of a full set of chromosomes (23 each). The egg will always express an X chromosome, and the sperm expresses either an X or a Y. After the egg is fertilized, a Y sperm will complete an XY sex karyotype, while an X sperm will complete an XX sex karyotype. 
 
 Onwards, the sex determinant gene SRY on the XY chromosomes will activate to differentiate testes from the primitive gonads, and the absence of SRY on the XX chromosomes will differentiate the primitive gonads into ovaries. From here on out, the testes will start producing testosterone which will differentiate seminal vesicles and the prostate from the viscera. They will also release a hormone called anti mullerian hormone, which will prevent the development of a uterus. Finally, conversion of testosterone into dihydrotestosterone will cause the growth of the penis and the fusion of labioscrotal (the primitive genital form) folds into the scrotum. In the fetus with ovaries, the lack of anti mullerian hormone will cause mullerian structures (uterus, fallopian tubes, cervix) to form, and the lack of testosterone will cause genitalia to form into the labia, vagina and clitoris. 
