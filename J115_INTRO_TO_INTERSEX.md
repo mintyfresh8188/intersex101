@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body style="background-color:black;">
-   <h1>What is Intersex (Difference of Sex Development) then?</h1>
+   <h1>What is Intersex (Difference of Sex Development)?</h1>
 
    Before you read this introduction to DSDs/Intersex, there is a refresher for those who feel they may be shaky on reproductive biology knowledge. [Here](https://github.com/mintyfresh8188/intersex101/blob/main/J115_reproductive_bio_review.md) is a quick review of how sex is defined and differentiated. 
   
