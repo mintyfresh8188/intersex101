@@ -33,70 +33,66 @@
 </ul>
 
 <h3>Hormone, receptor, enzyme deficiency/mutation</h3>
-
-CAH types
-  XX 11 β hydroxylase CAH
-  XX 21 hydroxylase CAH
-  XY partial 17 hydroxylase deficiency CAH
-  XY StAR deficiency CAH
-  Complete 17 hydroxylase deficiency CAH
-  Lipoid CAH
-  NCAH
-Inborn errors of steroid metabolism
-  XY 17-β-hydroxysteroid dehydrogenase III deficiency
-  XY Cytochrome b5 deficiency
-  p450 oxidoreductase deficiency
-  Combined 17 alpha hydroxylase/17,20-lyase deficiency
-  Isolated 17,20-lyase deficiency 
-  3-β-hydroxysteroid dehydrogenase deficiency 
-  Other 
-Aromatase excess syndrome 
-Aromatase deficiency syndrome
-Androgen insensitivity 
-  CAIS/ICAIS
-  PAIS
-  MAIS
-Estrogen insensitivity 
-  Complete
-  Partial
-5-alpha reductase deficiency
-Kallmann’s Syndrome
-Smith-Lemli-Opitz Syndrome
-Hypogonadotropic hypogonadism
+<ul>
+   <li>CAH types</li>
+<ul><li>XX 11 β hydroxylase CAH</li>
+  <li>XX 21 hydroxylase CAH</li>
+  <li>XY partial 17 hydroxylase deficiency CAH</li>
+  <li>XY StAR deficiency CAH</li>
+  <li>Complete 17 hydroxylase deficiency CAH</li>
+  <li>Lipoid CAH</li>
+  <li>NCAH</li></ul>
+<li>Inborn errors of steroid metabolism</li>
+  <ul><li>XY 17-β-hydroxysteroid dehydrogenase III deficiency</li>
+  <li>XY Cytochrome b5 deficiency
+  <li>p450 oxidoreductase deficiency
+  <li>Combined 17 alpha hydroxylase/17,20-lyase deficiency
+  <li>Isolated 17,20-lyase deficiency 
+  <li>3-β-hydroxysteroid dehydrogenase deficiency 
+  <li>Other </li></ul>
+<li>Aromatase excess syndrome</li> 
+<li>Aromatase deficiency syndrome
+<li>Androgen insensitivity</li> 
+  <ul><li>CAIS/ICAIS</li>
+  <li>PAIS</li>
+  <li>MAIS</li></ul>
+<li>Estrogen insensitivity</li> 
+  <ul><li>Complete</li>
+  <li>Partial</li></ul>
+<li>5-alpha reductase deficiency</li>
+<li>Persistent Mullerian Duct Syndrome (PMDS)</li>
+<li>Kallmann’s Syndrome</li>
+<li>Smith-Lemli-Opitz Syndrome</li>
+<li>Hypogonadotropic hypogonadism</li></ul>
 
 <h3>Sex determinant gene mutation</h3>
+<ul>
+<li>De La Chapelle syndrome (XX positive SRY)</li>
+<li>Other XX testicular DSD (SOX3, other sex reversal)</li>
+<li>XX OTDSD (SOX8 mutation, other)</li>
+<ul><li>Swyer Syndrome (XY negative SRY)</li>
+  <li>Type I (XY OTDSD)</li>
+  <li>Type II (XY complete gonadal dysgenesis)</li></ul>
+<li>SRY fragmentation </li>
+<li>MRKH</li>
+<ul><li>XX gonadal dysgenesis</li> 
+<li>Mixed </li>
+<li>Complete </li></ul>
+<li>XY gonadal dysgenesis </li>
+<li>XX Agonadism </li>
+<li>XY anorchia</li>
+<li>XY Campomelic Dysplasia</li>
+<li>XX vaginal atresia/dysgenesis</li>
+<ul><li>XY Leydig Cell Hypoplasia</li>
+<li>Mild or moderate</li>
+<li>Severe </li></ul>
+<li>XY GATA4 mutation </li>
+<li>Steroidogenic Factor 1 Mutation (SF1/NR5A1)</li>
+<li>Idiopathic DSD</li>
+</ul>
+<h3>Non genetic causes of DSD</h3>
+<li>Chemical exposure </li>
+<li>Tetrogen exposure </li>
+<li>Progestin induced virilization</li>
+<li>Androgen induced virilization</li>
 
-De La Chapelle syndrome (XX positive SRY)
-Other XX testicular DSD (SOX3, other sex reversal)
-XX OTDSD (SOX8 mutation, other)
-Swyer Syndrome (XY negative SRY)
-  Type I (XY OTDSD)
-  Type II (XY complete gonadal dysgenesis)
-SRY fragmentation 
-MRKH
-PMDS
-XX gonadal dysgenesis 
-Mixed 
-Complete 
-XY gonadal dysgenesis 
-XX Agonadism 
-XY anorchia
-XY Campomelic Dysplasia
-XX vaginal atresia/dysgenesis
-XY Leydig Cell Hypoplasia
-Mild or moderate
-Severe 
-XY GATA4 mutation 
-Steroidogenic Factor 1 Mutation (SF1/NR5A1)
-Idiopathic DSD
-Chemical exposure 
-Tetrogen exposure 
-Progestin induced virilization
-Androgen induced virilization
-Chemical induced genital abnormalities
-pregnancy/birth complications
-Other
-Other intersex variation/DSD
-Questioning 
-unconfirmed/unknown 
-Prefer to not disclose
