@@ -50,15 +50,16 @@ Another common case is congenital adrenal hyperplasia 21 hydorxylase deficiency,
 
 **We can also understand the different types of gonads that come up in DSDs:**
 
-Testicular
+Testes: A number of DSDs result in bilateral testes, or a testis and a streak gonad, making the individual’s gonadal sex to be male. Most typically seen in 46XY DSD, where genitalia or endocrine composition is where difference is seen, testes can also occur in those without a Y chromosome, such as in 46XX SRY+
 
-Ovarian 
+Ovaries: A number of DSDs will result in bilateral ovaries, with the most common ovarian DSD being CAH (congential adrenal hyperplasia), and differences are seen in genitalia and endocrine composition. In very rare cases, someone with 46XY can have ovaries
 
-Ovotesticular/Mixed Gonads
+Ovotestes: A small portion of DSDs will result in someone having ovotesticular tissue, which is called OTDSD. Someone can also have an ovary and a testis. This is usually caused by either genetic mutation or by chromosomal mosaicism or chimerism
 
-Streak Gonads
+Streak gonads/undifferentiated: If gonads are not differentiated at all, such as in Swyer’s syndrome, the individual usually has a female phenotype (complete mullerian structures). This is the only case where gonads may need to be removed for an individual’s safety, they can easily become cancerous.
 
-And we can also understand the pubertal phenotype, which defines an individual’s secondary sex characteristics (note that each category describes what someone’s body biases, there may still be significant differences): 
+
+**And we can also understand the pubertal phenotype, which defines an individual’s secondary sex characteristics (note that each category describes what someone’s body biases, there may still be significant differences):**
 
 Female development 
 
@@ -66,13 +67,37 @@ Male development
 
 Mixed/Cycling development 
 
-What about genitalia? Don’t we assign sex through genitals? 
+<h3>What about genitalia? Don’t we assign sex through genitals? </h3>
 
-People with DSDs do have a sex, just not in.a conventional way. They have a gonadal (primary) sex, and a functional (phenotypical) sex, and the primary and secondary sex may not match. The idea that those with DSDs do not have a sex, have a “broken” sex, or having an undefinable/fluid sex, has contributed to unethical medical practices of sterilizing and non consensually modifying (usually minors) those with DSDs. People have a right to retain their reproductive organs even if the composition is unconventional, and they have a right to their biological sex and a right to reproduction. 
+While it is common practice to assign a gender to an infant via genitalia, and while for people without DSD genitals are an accurate indicator of their sex, this doesn’t always correlate to functional or gonadal sex for intersex people. Mistaken sex assignments happen frequently with some conditions, like 5ARD or OTDSD and CAH. Other times, genitals are ambiguous and it is difficult to determine whether it resembles male or female genitalia, and in and effort to get an infant to “conform” to a category, frequently cosmetic surgeries to alter the appearance of the genitalia is performed. These surgeries often cause a loss of sensation and chronic pain, due to being performed at such a young age. In addition, patients with DSDs are frequently coerced or forced into having their gonads removed due to discovering that they do not match the sex that the individual had initially been registered as, leaving the person with no ability to reproduce or regulate their own hormones. 
 
-What might someone with a DSD look like? 
+Images of ambiguous genitalia are rare, and are frequently diagrams that do little to accurately convey what genital ambiguity could look like. In addition, many reference images come up on google from case studies that have taken photos of patients during unethical examination procedures. Ethical awareness about ambiguous genitalia is the first step to acceptance of genitalia that naturally lies outside of the norm. 
+
+<h2>What might someone with a DSD look like? </h2>
 
 Examples: CAIS, CAH, Mixed Gonadal Dysgenesis, 5ARD
+
+<h2>Myths and Misconceptions </h2>
+
+Are DSDs like being a hermaphrodite?
+
+Contrary to popular belief, as well as older medical misconceptions, people who have DSDs are not hermaphroditic. A true human hermaphrodite, as in someone who can produce both viable eggs and sperm, and is capable of both pregnancy and insemination, has not existed at least according to our current knowledge. Snails are hermaphroditic, for example, but humans are not. 
+
+Intersex people have historically been seen as either monsters or gods, and this misconception has caused much stigmatization and fetishization
+
+Are DSDs disorders or diseases then?
+
+We used to think that those with DSDs were another category separate from male and female, but we now know that sex characteristics exist on a bimodal spectrum, and for most people with DSDs, they function as either phenotypical/gonadal males or females. This means that the vast majority of people with DSDs are either mostly male with some atypical or female traits, or mostly female with some atypical or male traits. Their differences simply mean that they have traits from somewhere else on the spectrum, and it does not make them diseased or needing to be separated out as a different category. Intersex bodies are simply a natural variation of the existing two sexes. 
+
+Are intersex people/people with DSDs transgender? 
+
+There is a popular misconception that those with DSDs are transgender because there is a significant minority who end up living as a different gender in adulthood than childhood. However, the majority of those with DSDs do not have genital/gonadal mismatches, and they stay the gender they were raised. For the minority (around 10-20%) who do change their lived gender, it is usually because they were assigned to a gender that does not correspond to their gonads, and they undergo a puberty in adolescence that doesn’t match their genitalia, and thus change their lived gender. These individuals are also not classed as transgender, because their gender identity is aligned with their body’s sex. 
+
+Rather, those with DSDs who have atypical or different gender experiences, can sometimes coin these experiences or their identity as intersex. The vast majority still have a binary gender identity. Those with DSDs frequently refer to their experiences, community and self conceptualization as intersex — an experience outside the typical male or female experience— and will call their medical diagnoses/specific conditions a DSD. Being intersex is much like how albinism in a person of colour may affect their experiences or relationship with race/ethnicity. 
+
+<h2>In conclusion:</h2>
+
+People with DSDs do have a sex, just not in.a conventional way. They have a gonadal (primary) sex, and a functional (phenotypical) sex, and the primary and secondary sex may not match like in the case of CAIS. Most intersex people’s bodies function male or female. The idea that those with DSDs do not have a sex, have a “broken” sex, or having an undefinable/fluid sex, has contributed to unethical medical practices of sterilizing and non consensually modifying (usually minors) those with DSDs. People have a right to retain their reproductive organs even if the composition is unconventional, and they have a right to their biological sex and a right to reproduction. 
 
 </body>
 </html>
