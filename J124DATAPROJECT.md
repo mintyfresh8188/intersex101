@@ -2,9 +2,9 @@
 
 <h3>Introduction and Premise</h3>
 
-A difference of sex developmentis described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see intro_to_intersex.md
+A difference of sex developmentis described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see the [Intro to Intersex](https://github.com/mintyfresh8188/intersex101/blob/main/J115_INTRO_TO_INTERSEX.md) page.
 
-One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is 1.7%, but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to Havard Medical School to look for incidence of likely DSDs, even if they were not reported as a DSD. 
+One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is [1.7%](https://ihra.org.au/16601/intersex-numbers/), but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to Havard Medical School to look for incidence of likely DSDs, even if they were not reported as a DSD. 
 
 <h3>Data Analysis</h3>
 
@@ -137,11 +137,11 @@ Incidence of reproductive disorders in the entire sample size is 620
 <h2>That was a lot of data and numbers! Let's contextualize it a little bit with some visualizations</h2>
 
 
-<div style="min-height:667px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/s9Oyq/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/s9Oyq/full.png" alt="" /></noscript></div> 
+<div style="min-height:667px"><noscript><img src="https://datawrapper.dwcdn.net/s9Oyq/full.png" alt="" /></noscript></div> 
 
-<div style="min-height:362px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/muvuF/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/muvuF/full.png" alt="" /></noscript></div> 
+<div style="min-height:362px"><noscript><img src="https://datawrapper.dwcdn.net/muvuF/full.png" alt="" /></noscript></div> 
 
-<div style="min-height:528px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/dKycs/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/dKycs/full.png" alt="" /></noscript></div> 
+<div style="min-height:528px"><noscript><img src="https://datawrapper.dwcdn.net/dKycs/full.png" alt="" /></noscript></div> 
 
 <h3> It’s just that we are overall, not knowledgeable about reproductive biology or science in general </h3>
 
