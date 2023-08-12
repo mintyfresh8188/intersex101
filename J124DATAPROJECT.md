@@ -18,6 +18,10 @@ Some questions answered by this data analysis will be:
 3. Create pivot table 
 4. Values: Count unique
 
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.50.50%20PM.png)
+
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.50.59%20PM.png)
+
 Return: *2318 unique participants* 
 
 *How many people had a condition not otherwise listed compared to the number of people who had any diagnosis in each data set?* 
@@ -31,6 +35,8 @@ Return: *2318 unique participants*
 7. Delete all the cells that say no/none/n/a after Column D starts giving blanks and then delete the rows
 8. Do this for the other two data sets
 
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.59.26%20PM.png)
+
 Endocrine/metabolic/nutritional/disease survey Total: 1243
 
 Congenital Traits and Anomalies Survey Total: 314
@@ -43,6 +49,8 @@ Genitourinary disease/anomalies Survey Total: 1133
 4. Filter out blanks
 5. Copy filtered column B and paste into third sheet, which will give the value of all conditions not listed
 6. Do this for all sheets
+
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%209.02.02%20PM.png)
 
 Other conditions Not Listed: 
 
@@ -82,6 +90,10 @@ Now, let’s double check that there aren’t any duplications
 11. Select column A
 12. One of the references was duplicated, so the extra was removed
 
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.51.52%20PM.png)
+
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.48.54%20AM.png)
+
 There are a total of *9* references who have a condition that fits clinical definition of DSD
 
 *What is the incidence of reproductive disorders/anomalies compared to general endocrine disorders?* 
@@ -114,7 +126,11 @@ Incidence of reproductive disorders in the Endocrine sample is 143
 7. Repeat process for the other two data sets, pasting under the previous filtered data in SheetRepro
 8. Once all the data is in SheetRepro, insert a pivot table 
 9. Add value for Participant 
-10. CountUnique 
+10. CountUnique
+
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.47.45%20AM.png)
+
+![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.47.26%20AM.png)
 
 Incidence of reproductive disorders in the entire sample size is 620
 
