@@ -149,7 +149,7 @@ Incidence of reproductive disorders in the entire sample size is 620
 Let's take a look at how much the average person knows about reproductive biology (sourced from a study on general scientific literacy). 
 
 
-<div style="min-height:400px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/16uGD/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/16uGD/full.png" alt="" /></noscript></div> 
+<div style="min-height:400px"><noscript><img src="https://datawrapper.dwcdn.net/16uGD/full.png" alt="" /></noscript></div> 
 
 <h3>The Problems Facing Medical Care and Diagnosis of DSDs</h3>
 
