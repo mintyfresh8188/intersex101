@@ -22,4 +22,4 @@ Or most likely you are here not to find answers about yourself, but to learn abo
 
 ![](https://github.com/mintyfresh8188/intersex101/blob/main/how-to-5.gif)
 
-Start [here](https://github.com/mintyfresh8188/intersex101/blob/main/J115_INTRO_TO_INTERSEX.md)
+Start [here](https://github.com/mintyfresh8188/intersex101/blob/main/01_INTRO_TO_INTERSEX.md)
