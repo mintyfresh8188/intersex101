@@ -4,7 +4,7 @@ In this section, curious and academically oriented minds will be able to read up
 
 ## Contents of the Deep Dive Section
 ### Society
-- Historical Medical Context for Intersex Bodies
+- [Historical Medical Context for Intersex Bodies](https://github.com/mintyfresh8188/intersex101/blob/main/03_DEEP_DIVE_History.md)
 - Intersex, Gender and Society
 - Infant Genital Modifications and John Money
 - Ethical and communications dilemmas facing intersex healthcare
