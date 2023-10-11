@@ -19,7 +19,7 @@ So now that we know how typical biological sex works, and how sex is determined 
 
 **Sex hormone synthesis/receptor differences**
 
-All of the currently known DSDs are located in another page, and if you are interested, you may look [here](https://github.com/mintyfresh8188/intersex101/blob/main/list_of_variations.md) for the comprehensive list. 
+All of the currently known DSDs are located in another page, and if you are interested, you may look [here](https://github.com/mintyfresh8188/intersex101/blob/main/00_list_of_variations.md) for the comprehensive list. 
 
 <h3>1. Chromosomal DSDs</h3>
 
