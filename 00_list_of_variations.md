@@ -3,7 +3,7 @@
 <h3>Chromosomal anomaly</h3>
 
 <ul>
-<li>Turner Syndrome</li>
+<li>[Turner Syndrome](https://github.com/mintyfresh8188/intersex101/blob/main/0x_Turner's.md)</li>
    <ul> <li>Male Turner’s (X0/XY)</li>
     <li>Turner syndrome (X0 complete gonadal dysgenesis)</li>
     <li>Mosaic Turner’s (X0/XX)</li></ul>
