@@ -70,8 +70,8 @@
 <li>De La Chapelle syndrome (XX positive SRY)</li>
 <li>Other XX testicular DSD (SOX3, other sex reversal)</li>
 <li>XX OTDSD (SOX8 mutation, other)</li>
-<ul><li>Swyer Syndrome (XY negative SRY)</li>
-  <li>Type I (XY OTDSD)</li>
+<li>Swyer Syndrome (XY negative SRY)</li>
+  <ul><li>Type I (XY OTDSD)</li>
   <li>Type II (XY complete gonadal dysgenesis)</li></ul>
 <li>SRY fragmentation </li>
 <li>MRKH</li>
