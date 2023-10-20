@@ -1,5 +1,7 @@
-
-   <h1>What is Intersex (Difference of Sex Development)?</h1>
+---
+layout: page
+title: What is Intersex (Difference of Sex Development)?
+---
 
    [Preface](/00_PREFACE.md)
 

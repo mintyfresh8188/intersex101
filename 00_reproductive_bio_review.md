@@ -1,4 +1,7 @@
-<h1>Introduction to Human Reproductive Anatomy</h1>
+---
+layout: page
+title: Introduction to Human Reproductive Anatomy
+---
 
 Did you know that over 40% of American adults do not know that the sex of a fetus is determined by the sex chromosome of the sperm, and not the egg? It is a somewhat shocking statistic, but awareness about reprodudctive biology is low even in the developed world. Before we dive into what intersex, or DSD is, we first need to know about general reproductive anatomy and human sex (medically speaking). 
 

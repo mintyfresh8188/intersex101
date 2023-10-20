@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Intersex 101 - Preface
 ---
 

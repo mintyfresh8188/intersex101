@@ -1,10 +1,26 @@
-title: Intersex 101
-description: A project that aims to spread accurate and scientific awareness about what DSD means
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-remote_theme: sblisesivdin/biscuit
-# Build settings
-markdown: kramdown
-sass:
-  style: compressed
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Intersex 101
+tagline:          'A Jekyll theme'
+description:      'A project that aims to spread accurate and scientific awareness about what DSD means'
+url:              https://intersex101.com
+baseurl:          /
+
+author:
+  name:           'SJ Guo'
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
