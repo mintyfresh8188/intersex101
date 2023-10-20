@@ -1,1 +1,7 @@
-# History of Intersex and Medicine
+---
+layout: default
+title: History of Intersex and Medicine
+------
+
+
+

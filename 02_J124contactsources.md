@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sources and Data
+---
+
 <h1>Sources and Data</h1>
 
 All of the sources that were referenced in the analysis are embedded as links. This page will provide methods for contacting the interviewee, as well as others who are similalry knowledgeable about DSD/intersex matters. 
