@@ -2,13 +2,13 @@
 
 <h3>Introduction and Premise</h3>
 
-A difference of sex developmentis described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see the [Intro to Intersex](https://github.com/mintyfresh8188/intersex101/blob/main/J115_INTRO_TO_INTERSEX.md) page.
+A difference of sex developmentis described as a congenital and significant difference to the chromosomes, gonads, internal reproductive organs, genitalia and sex hormone profile. For clarification on what a difference of sex development (DSD) is, please see the [Intro to Intersex](/J115_INTRO_TO_INTERSEX.md) page.
 
 One of the numbers commonly cited regarding the occurrence of DSDs/intersex conditions is [1.7%](https://ihra.org.au/16601/intersex-numbers/), but this is an estimate and it is frequently debated. Some researchers argue that it’s much rarer, occurring at a rate of 1 out of 10K, and have defined DSD as only those with ambiguous genitalia. These are some huge differences in estimation, and it does not help that over 70% of those with a DSD do not receive a specific or accurate diagnosis. Therefore, we will take to a random population sample who have submitted their human genome data to Havard Medical School to look for incidence of likely DSDs, even if they were not reported as a DSD. 
 
 <h3>Data Analysis</h3>
 
-Please see the following data sets ([Metabolic/endocrine](https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit?usp=sharing), [Genitourinary](https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit?usp=sharing), [Congenital Anomalies](https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit?usp=sharing)) for the raw data and tables made for analysis. Additionally, the interview sources and additional relevant studies are cited in the [sources page](https://github.com/mintyfresh8188/intersex101/blob/main/J124contactsources.md).
+Please see the following data sets ([Metabolic/endocrine](https://docs.google.com/spreadsheets/d/1nHf8PCyWy6gkThjWqF-zYtcfCAEmWUd1Nw6b0_VVYiw/edit?usp=sharing), [Genitourinary](https://docs.google.com/spreadsheets/d/1NK2SI2D9rT_PLKmwx6USzkI4F67nc5rNxU2UWIhBeyQ/edit?usp=sharing), [Congenital Anomalies](https://docs.google.com/spreadsheets/d/1Tbiw5fOCp2FcRPI4dXsR_QukCyJPl1IsD4nonKkdVd8/edit?usp=sharing)) for the raw data and tables made for analysis. Additionally, the interview sources and additional relevant studies are cited in the [sources page](/J124contactsources.md).
 
 Some questions answered by this data analysis will be:
 
@@ -18,9 +18,9 @@ Some questions answered by this data analysis will be:
 3. Create pivot table 
 4. Values: Count unique
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.50.50%20PM.png)
+![](/Screenshot%202023-08-11%20at%208.50.50%20PM.png)
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.50.59%20PM.png)
+![](/Screenshot%202023-08-11%20at%208.50.59%20PM.png)
 
 Return: *2318 unique participants* 
 
@@ -35,7 +35,7 @@ Return: *2318 unique participants*
 7. Delete all the cells that say no/none/n/a after Column D starts giving blanks and then delete the rows
 8. Do this for the other two data sets
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.59.26%20PM.png)
+![](/Screenshot%202023-08-11%20at%208.59.26%20PM.png)
 
 Endocrine/metabolic/nutritional/disease survey Total: 1243
 
@@ -50,7 +50,7 @@ Genitourinary disease/anomalies Survey Total: 1133
 5. Copy filtered column B and paste into third sheet, which will give the value of all conditions not listed
 6. Do this for all sheets
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%209.02.02%20PM.png)
+![](/Screenshot%202023-08-11%20at%209.02.02%20PM.png)
 
 Other conditions Not Listed: 
 
@@ -90,9 +90,9 @@ Now, let’s double check that there aren’t any duplications
 11. Select column A
 12. One of the references was duplicated, so the extra was removed
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-11%20at%208.51.52%20PM.png)
+![](/Screenshot%202023-08-11%20at%208.51.52%20PM.png)
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.48.54%20AM.png)
+![](/Screenshot%202023-08-10%20at%203.48.54%20AM.png)
 
 There are a total of *9* references who have a condition that fits clinical definition of DSD
 
@@ -128,9 +128,9 @@ Incidence of reproductive disorders in the Endocrine sample is 143
 9. Add value for Participant 
 10. CountUnique
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.47.45%20AM.png)
+![](/Screenshot%202023-08-10%20at%203.47.45%20AM.png)
 
-![](https://github.com/mintyfresh8188/intersex101/blob/main/Screenshot%202023-08-10%20at%203.47.26%20AM.png)
+![](/Screenshot%202023-08-10%20at%203.47.26%20AM.png)
 
 Incidence of reproductive disorders in the entire sample size is 620
 
