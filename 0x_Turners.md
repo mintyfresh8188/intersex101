@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Turner's (X0, XX/X0, XY/X0 with Turner's presentation)
 ---
 
