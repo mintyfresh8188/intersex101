@@ -1,3 +1,8 @@
+---
+layout: page
+title: List of Variatons/DSDs
+---
+
 <h1>VARIATIONS:</h1>
 
 <h3>Chromosomal anomaly</h3>
