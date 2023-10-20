@@ -8,7 +8,7 @@ title: List of Variatons/DSDs
 <h3>Chromosomal anomaly</h3>
 
 <ul>
-<li><a href="/0x_Turner's.md">Turner Syndrome</a></li>
+<li><a href="/0x_Turners.md">Turner Syndrome</a></li>
    <ul> <li>Male Turner’s (X0/XY)</li>
     <li>Turner syndrome (X0 complete gonadal dysgenesis)</li>
     <li>Mosaic Turner’s (X0/XX)</li></ul>
@@ -72,6 +72,7 @@ title: List of Variatons/DSDs
 
 <h3>Sex determinant gene mutation</h3>
 <ul>
+
 <li>De La Chapelle syndrome (XX positive SRY)</li>
 <li>Other XX testicular DSD (SOX3, other sex reversal)</li>
 <li>XX OTDSD (SOX8 mutation, other)</li>
@@ -95,9 +96,11 @@ title: List of Variatons/DSDs
 <li>Steroidogenic Factor 1 Mutation (SF1/NR5A1)</li>
 <li>Idiopathic DSD</li>
 </ul>
-<h3>Non genetic causes of DSD</h3>
+
+<h3>Non genetic causes of DSD</h3><ul>
 <li>Chemical exposure </li>
 <li>Tetrogen exposure </li>
 <li>Progestin induced virilization</li>
-<li>Androgen induced virilization</li>
+<li>Androgen induced virilization</li></ul>
+
 
