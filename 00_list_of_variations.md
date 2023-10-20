@@ -5,10 +5,10 @@ title: List of Variatons/DSDs
 
 <h1>VARIATIONS:</h1>
 
-<h3>Chromosomal anomaly</h3>
+### Chromosomal anomaly
 
-<ul>
-<li><a href="/0x_Turners.md">Turner Syndrome</a></li>
+
+- [Turner Syndrome](/0x_turners.md) 
    <ul> <li>Male Turner’s (X0/XY)</li>
     <li>Turner syndrome (X0 complete gonadal dysgenesis)</li>
     <li>Mosaic Turner’s (X0/XX)</li></ul>
@@ -46,8 +46,8 @@ title: List of Variatons/DSDs
   <li>XY StAR deficiency CAH</li>
   <li>Complete 17 hydroxylase deficiency CAH</li>
   <li>Lipoid CAH</li>
-  <li>NCAH</li></ul>
-<li>Inborn errors of steroid metabolism</li>
+  <li>NCAH</li></ul></ul>
+<ul><li>Inborn errors of steroid metabolism</li>
   <ul><li>XY 17-β-hydroxysteroid dehydrogenase III deficiency</li>
   <li>XY Cytochrome b5 deficiency
   <li>p450 oxidoreductase deficiency
@@ -55,17 +55,17 @@ title: List of Variatons/DSDs
   <li>Isolated 17,20-lyase deficiency 
   <li>3-β-hydroxysteroid dehydrogenase deficiency 
   <li>Other</li> 
-  </ul>
-<li>Aromatase excess syndrome</li> 
-<li>Aromatase deficiency syndrome
-<li>Androgen insensitivity</li> 
+  </ul></ul>
+<ul><li>Aromatase excess syndrome</li> 
+<li>Aromatase deficiency syndrome</ul>
+<ul><li>Androgen insensitivity</li> 
   <ul><li>CAIS/ICAIS</li>
   <li>PAIS</li>
-  <li>MAIS</li></ul>
-<li>Estrogen insensitivity</li> 
+  <li>MAIS</li></ul></ul>
+<ul><li>Estrogen insensitivity</li> 
   <ul><li>Complete</li>
-  <li>Partial</li></ul>
-<li>5-alpha reductase deficiency</li>
+  <li>Partial</li></ul></ul>
+<ul><li>5-alpha reductase deficiency</li>
 <li>Persistent Mullerian Duct Syndrome (PMDS)</li>
 <li>Kallmann’s Syndrome</li>
 <li>Smith-Lemli-Opitz Syndrome</li>
@@ -73,7 +73,6 @@ title: List of Variatons/DSDs
 
 <h3>Sex determinant gene mutation</h3>
 <ul>
-
 <li>De La Chapelle syndrome (XX positive SRY)</li>
 <li>Other XX testicular DSD (SOX3, other sex reversal)</li>
 <li>XX OTDSD (SOX8 mutation, other)</li>
