@@ -54,7 +54,8 @@ title: List of Variatons/DSDs
   <li>Combined 17 alpha hydroxylase/17,20-lyase deficiency
   <li>Isolated 17,20-lyase deficiency 
   <li>3-β-hydroxysteroid dehydrogenase deficiency 
-  <li>Other </li></ul>
+  <li>Other</li> 
+  </ul>
 <li>Aromatase excess syndrome</li> 
 <li>Aromatase deficiency syndrome
 <li>Androgen insensitivity</li> 
@@ -99,7 +100,7 @@ title: List of Variatons/DSDs
 
 <h3>Non genetic causes of DSD</h3><ul>
 <li>Chemical exposure </li>
-<li>Tetrogen exposure </li>
+<li>Teratogen exposure </li>
 <li>Progestin induced virilization</li>
 <li>Androgen induced virilization</li></ul>
 

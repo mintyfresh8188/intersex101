@@ -2,7 +2,7 @@
 layout: default
 title: Turner's (X0, XX/X0, XY/X0 with Turner's presentation)
 ---
-\
+
 ## Preface:
 
 Turner syndrome (TS) is a DSD that describes a partial or full loss of the second sex chromosome, usually resulting in particular phenotypic presentations and a distinct physical appearance. Though Turner syndrome can present in many ways for many different people for different reasons. We will explore the different variations TS has on this page!
