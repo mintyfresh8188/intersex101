@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intersex 101 - Preface
+---
+
 <h1>Have you come here to seek answers for questions you have harboured for your whole life?</h1>
 
 ![](/IMG_0073%202.jpg)
