@@ -1,5 +1,10 @@
 title: Intersex 101
 description: A project that aims to spread accurate and scientific awareness about what DSD means
-remote_theme: sblisesivdin/biscuit
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+remote_theme: sblisesivdin/biscuit
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
