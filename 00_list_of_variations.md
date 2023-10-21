@@ -6,25 +6,23 @@ title: List of Variatons/DSDs
 <h1>VARIATIONS:</h1>
 
 ### Chromosomal anomaly
-<ul><li>
 
-[Turner's Syndrome](/0x_Turners.md) </li>
-   <ul> <li>Male Turner’s (X0/XY)</li>
+
+- [Turner's Syndrome](/0x_Turners.md) 
+   <ul><li>Male Turner’s (X0/XY)</li>
     <li>Turner syndrome (X0 complete gonadal dysgenesis)</li>
     <li>Mosaic Turner’s (X0/XX)
     
-  </li></ul></ul>
+  </li></ul>
 
-<ul><li>
 
-[Klinefelter’s Syndrome](/0x_Klinefelters.md)
-</li>
+- [Klinefelter’s Syndrome](/0x_Klinefelters.md)
   <ul><li>XXY</li>
   <li>XXXY</li>
   <li>XXYY</li>
   <li>Mosaic klinefelter’s (primarily KS presentation)
   
-  </li></ul></ul>
+  </li></ul>
 
 <ul><li>Trisomy X (XXX) Syndrome (mosaic or full)</li>
 <li>Jacob’s (XYY) Syndrome (mosaic or full)</li>
