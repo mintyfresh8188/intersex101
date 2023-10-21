@@ -17,12 +17,16 @@ title: List of Variatons/DSDs
 
 <ul><li>
 
-Klinefelter’s Syndrome</li>
+[Klinefelter’s Syndrome](/0x_Klinefelters.md)
+</li>
   <ul><li>XXY</li>
   <li>XXXY</li>
   <li>XXYY</li>
-  <li>Mosaic klinefelter’s (primarily KS presentation)</li></ul>
-<li>Trisomy X (XXX) Syndrome (mosaic or full)</li>
+  <li>Mosaic klinefelter’s (primarily KS presentation)
+  
+  </li></ul></ul>
+
+<ul><li>Trisomy X (XXX) Syndrome (mosaic or full)</li>
 <li>Jacob’s (XYY) Syndrome (mosaic or full)</li>
 <li>Mosaic chromosomes (primarily mosaic presentation)</li>
   <ul><li>X/XY (mosaic Y loss/mixed gonadal dysgenesis)</li>
