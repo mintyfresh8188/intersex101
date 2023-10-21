@@ -7,7 +7,7 @@ title: List of Variatons/DSDs
 
 ### Chromosomal anomaly
 
-<ul><li><a href="/https://intersex101.com/0x_Turners/">Turner's Syndrome</a></li>
+<ul><li><a href="0x_Turners/">Turner's Syndrome</a></li>
 [Turner Syndrome](/0x_Turners.md) 
    <ul> <li>Male Turner’s (X0/XY)</li>
     <li>Turner syndrome (X0 complete gonadal dysgenesis)</li>
