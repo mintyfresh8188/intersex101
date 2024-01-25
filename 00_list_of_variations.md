@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of Variatons/DSDs
+title: List of Variations/DSDs
 ---
 
 <h1>VARIATIONS:</h1>
