@@ -134,6 +134,10 @@ We used to think that those with DSDs were another category separate from male a
 
 ![](/IMG_0079.jpg)
 
+**Are intersex people intellectually disabled?**
+
+No, intersex people do not usually have intellectual disabilities. The occurrence rate of intellectual disability for intersex individuals is around the same as for the general population. While certainly a flawed metric, average intelligence quotient (IQ) scores for intersex people are the same as the general population. Less than 5 of the 40+ conditions is associated with intellectual disability, and these specific conditions are fairly uncommon. This is because the genetic differences (even the chromosomal ones) However, intersex people do experience higher rates of neurodivergence, such as autism, ADHD and learning disabilities like dyslexia or dyscalcullia. Some conditions have positive correlation with other disabilities or chronic illnesses, such as Turner's syndrome individuals having a higher rate of deafnesss or CAH individuals having a higher rate of connective tissue disorders. 
+
 **Are intersex people/people with DSDs transgender?** 
 
 There is a popular misconception that those with DSDs are transgender because there is a significant minority who end up living as a different gender in adulthood than childhood. However, the majority of those with DSDs do not have genital/gonadal mismatches, and they stay the gender they were raised. For the minority [(around 10-20%)](https://pubmed.ncbi.nlm.nih.gov/33246831/) who do change their lived gender, it is usually because they were assigned to a gender that does not correspond to their gonads, and they undergo a puberty in adolescence that doesn’t match their genitalia, and thus change their lived gender. These individuals are also not classed as transgender, because their gender identity is aligned with their body’s sex. 
