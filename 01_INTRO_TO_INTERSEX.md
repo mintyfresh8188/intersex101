@@ -126,13 +126,13 @@ CAH and female OTDSD (ovotesticular DSD with ovarian majority) can result in som
 
 Contrary to popular belief, as well as older medical misconceptions, people who have DSDs are not hermaphroditic. A true human hermaphrodite, as in someone who can produce both viable eggs and sperm, and is capable of both pregnancy and insemination, has not existed at least according to our current knowledge. Snails are hermaphroditic, for example, but humans are not. 
 
-Intersex people have historically been seen as either monsters or gods, and this misconception has caused much stigmatization and fetishization
+Intersex people have historically been seen as either monsters or gods, and this misconception has caused much stigmatization and fetishization. Modern medicine has not been any kinder, categorizing intersex people into very othering categories and conducting risky cosmetic surgeries on intersex children's genitalia. In reality, an intersex person often looks no different from a non intersex person when you meet them in your dailu life. You have probably met someone intersex in passing or are acquainted with them, but are unaware because you have not seen their unclothed bodies or their medical records. Intersex people are everywhere, living normal lives, with the same hopes and aspirations as anyone else. They can be your classmate, your colleague at the office, your professor or even the doctor you see at the hospital. 
 
 ![](/My%20document%20(3).jpg)
 
 **Are DSDs disorders or diseases then?**
 
-We used to think that those with DSDs were another category separate from male and female, but we now know that sex characteristics exist on a bimodal spectrum, and for most people with DSDs, they function as either phenotypical/gonadal males or females. This means that the vast majority of people with DSDs are either mostly male with some atypical or female traits, or mostly female with some atypical or male traits. Their differences simply mean that they have traits from somewhere else on the spectrum, and it does not make them diseased or needing to be separated out as a different category. Intersex bodies are simply a natural variation of the existing two sexes. 
+We used to think that those with DSDs were another category separate from male and female, but we now know that sex characteristics exist on a bimodal spectrum, and for most people with DSDs, they function as either phenotypical/gonadal males or females. This means that the vast majority of people with DSDs either lean male with some atypical or female traits, or lean female with some atypical or male traits. Their differences simply mean that they have traits from somewhere else on the spectrum, and it does not make them diseased or needing to be separated out as a different category. Intersex bodies are simply a natural variation of the existing two sexes. 
 
 ![](/IMG_0079.jpg)
 
