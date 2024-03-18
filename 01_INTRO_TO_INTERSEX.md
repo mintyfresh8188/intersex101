@@ -154,7 +154,7 @@ People with DSDs do have a sex, just not in.a conventional way. They have a gona
 
 <h3>Additional Material</h3>
 
-I conducted an interview with one of my research facillitators on what she felt about the incidence of DSDs and stgima surrounding medical diagnosis and care. She has a lot of great insight, and if you are interested in reading about it, you can find that interview at the end of this [page](/02_J124DATAPROJECT.md)
+I conducted an interview with an intersex activist on what she felt about the incidence of DSDs and stgima surrounding medical diagnosis and care. She has a lot of great insight, and if you are interested in reading about it, you can find that interview at the end of this [page](/02_J124DATAPROJECT.md)
 
 
 
